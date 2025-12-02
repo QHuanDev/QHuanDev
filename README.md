@@ -1,6 +1,7 @@
 ## 👋 Xin chào
 
-Mình là **Quang Huấn**, một Intenr Web Developer
+Mình là **Quang Huấn**, một Intenr Web Developer.
+
 Đang học **Node.js**, **React**.
 
 ---
